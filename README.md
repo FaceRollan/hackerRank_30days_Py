@@ -8,3 +8,7 @@
   - My Solution.
  
 - *Will try to include notes about the solution or other ways to solve.*
+
+## Testing Git from VSCode
+
+Following along with https://www.youtube.com/watch?v=RGOj5yH7evk
