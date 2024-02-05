@@ -7,4 +7,4 @@
   - Should Include Challenge Title.
   - My Solution.
  
-- Will try to include notes about the solution or other ways to solve.
+- *Will try to include notes about the solution or other ways to solve.*
