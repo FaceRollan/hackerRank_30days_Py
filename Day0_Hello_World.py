@@ -8,3 +8,8 @@ print(input_string)
 
 # TODO: Write a line of code here that prints the contents 
 #    of input_string to stdout.
+
+# --- Print in a single line, but still outputting on two lines --- #
+input_string = input()
+
+print('Hello, World.', input_string, sep='\n')
