@@ -23,6 +23,11 @@
     - e.g. x = 0; or y = 'Hello World!'
 ---
 #### Day 2:
+- Solution worked after 2 tries.
+  - I didn't account for the *'tip_percent'* and *'tax_percent'* being percentages and not per calculated decimals.
+    - This was in the instructions and i missed it.
+- To fix it, I had to add more arithmatic:
+  - *'..._percent'* / 100
 ---
 #### Day 3:
 ---
