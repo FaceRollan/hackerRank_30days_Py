@@ -5,10 +5,10 @@
 
 - 2 entries for each day.
   -  Solution file = DayX_name_of_problem.py
-    - Should Include Challenge Title.
-    - My Solution.
+      - Should Include Challenge Title.
+      - My Solution.
   - Problem file = DayX_name_of_problem_problem.pdf
-    - Downloaded PDF from hackerRank.
+      - Downloaded PDF from hackerRank.
  
 - *Will try to include notes about the solution or other ways to solve.*
 ---
