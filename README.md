@@ -33,6 +33,12 @@
   - *'..._percent'* / 100
 ---
 #### Day 3:
+- Today took quite a few tries to get right.
+  - Using N % 3 == 0 was not ouputting anything.
+    - Fix: N % 2 == 1. This is just another way to check if the integer input is Odd.
+- I began by using a *for* loop with a range of (1, N, N + 1).
+  - This didn't work because we were only dealign with a single digit, not all number up to N.
+  - This made N **and** N+1 show in the ouput, printing two outputs.
 ---
 #### Day 4:
 ---
